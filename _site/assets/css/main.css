@@ -1,0 +1,86 @@
+@charset "UTF-8";
+body {
+  color: black;
+  font-family: Arial, Sans;
+  max-width: 900px;
+  margin: 0 auto;
+  padding: 10px;
+}
+
+.tags {
+  color: rgb(108, 108, 108);
+  font-size: 0.8;
+  border: 1px solid rgb(112, 112, 254);
+  border-radius: 5px;
+  padding-right: 1px;
+  padding-left: 1px;
+}
+
+dt {
+  font-weight: bold;
+}
+
+.footnotes {
+  font-size: 85%;
+}
+.footnotes p {
+  margin: 4px;
+}
+
+.title {
+  font-size: clamp(20px, 5vw, 28px);
+  font-weight: 800;
+  text-decoration: none;
+  max-width: 100%;
+}
+
+.title h1 {
+  margin-top: 10px !important;
+}
+
+h1, h2, h3 {
+  margin-bottom: 5px;
+}
+
+p {
+  margin-top: 0;
+}
+
+code {
+  padding: 1px 5px;
+  border: 1px solid #abc1b9;
+  border-radius: 3px;
+  font-family: "Menlo", "Inconsolata", "Consolas", "Roboto Mono", "Ubuntu Mono", "Liberation Mono", "Courier New", monospace;
+  background-color: #def2ef;
+}
+
+blockquote {
+  background-color: rgb(201, 241, 255);
+  position: relative;
+  font-style: italic;
+  color: #333;
+  border-left: 4px solid #ccc;
+  margin: 1em 0;
+  padding: 0.5em 1em;
+}
+
+blockquote::before {
+  content: "“";
+  font-size: 3em;
+  color: #ccc;
+  vertical-align: -20px;
+  display: inline;
+  line-height: 0.1;
+  margin-right: 1px; /* 👈 espaço entre a aspa e o texto */
+}
+
+form {
+  margin-top: 10px;
+  margin-bottom: 10px;
+}
+
+.foot, .post-date {
+  text-align: center;
+}
+
+/*# sourceMappingURL=main.css.map */

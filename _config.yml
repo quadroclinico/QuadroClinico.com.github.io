@@ -1,0 +1,10 @@
+url: "https://clinico.blog.br" # the base hostname & protocol for your site, e.g. http://example.com
+baseurl: "" # the subpath of your site, e.g. /blog
+title: "Clínico.blog.br" # the name of your site, e.g. ACME Corp.
+
+defaults:
+  -
+    scope:
+      path: "" # aplica a todo o site
+    values:
+      layout: default
