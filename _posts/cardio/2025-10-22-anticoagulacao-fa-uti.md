@@ -5,11 +5,11 @@ tags: [Problemas, Cardiologia, UTI, FA]
 
 Há benefício em anticoagular pacientes críticos (sépticos, principalmente) que abrem um quadro de fibrilação atrial durante o internamento?
 
-As grandes diretrizes sobre o manejo da FA são direcionadas pro cenário muito específico do paciente que chega na emergência com sintomas de FA ou que desobre a arritmia no ambulatório. Não existem grandes documentos orientando o manejo da FA no doente crítico internado em leito de UTI para tratamento de outra condição que acaba desenvolvendo uma FA secundária no contexto da instabilidade.
+As grandes diretrizes sobre o manejo da FA são direcionadas pro cenário muito específico do paciente que chega na emergência com sintomas de FA ou que descobre a arritmia no ambulatório. Não existem grandes documentos orientando o manejo da FA no doente crítico internado em leito de UTI para tratamento de outra condição e que acaba desenvolvendo uma FA secundária ao contexto da instabilidade.
 
-Ambulatorialmente é consenso a importância da anticoagulação para prevenção de eventos tromboembólicos, mas, e no paciente crítico? Pacientes graves intáveis podem ter tanto maior risco de sangamento como um maior risco de trombose. Os clássicos escores usando pra estimar o risco de tromboembolismo (como o CHADSVA) e de sangramento (como o HAS-BLED) não foram validados para uso em terapia intensiva (e _acho_ que nunca serão).
+Ambulatorialmente é consenso a importância da anticoagulação para prevenção de eventos tromboembólicos, mas, e no paciente crítico? Pacientes graves intáveis podem ter tanto maior risco de sangamento como um maior risco de trombose. Os clássicos escores usados pra estimar o risco de tromboembolismo (como o CHADSVA) e de sangramento (como o HAS-BLED) não foram validados para uso em terapia intensiva (e _acho_ que nunca serão).
 
-O primeiro material que encontrei discutindo essa problemática foi o blog do PulmCrit escrito pelo Josh Farkas[^IBCC], no artigo: [Atrial Fibrillation (AF) & Flutter complicating critical illness](https://emcrit.org/ibcc/af/#anticoagulation?). Na sessão "anticoagulation?" ele cita um estudo de coorte de 2016 que observou um maior risco de sangramento da anticoagulação da FA em pacientes sépticos mas sem redução do risco de AVC isquêmico[^JAMA-retrosp]. Perguntei sobre esse problema no _prompt_ do OpenEvidence e ele cita exatamente esse mesmo estudo como um dos principais. Além disso, outra coorte publicada em 2018[^JACC-coorte] mostrou a mesma tendência.
+O primeiro material que encontrei discutindo essa problemática foi o blog do PulmCrit escrito pelo Josh Farkas[^IBCC], no artigo: [Atrial Fibrillation (AF) & Flutter complicating critical illness](https://emcrit.org/ibcc/af/#anticoagulation?). Na sessão "anticoagulation?" ele cita um estudo de coorte de 2016 que observou um maior risco de sangramento da anticoagulação da FA em pacientes sépticos mas sem redução do risco de AVC isquêmico[^JAMA-retrosp]. Além disso, outra coorte publicada em 2018[^JACC-coorte] mostrou a mesma tendência.
 
 Então parece razoável realmente que não seja realizada a anticoagulação nesse cenário, baseado no princípio _primum non nocere_, pela falta de evidência de benefício (na verdade, com mais evidência de ausência de benefício).
 
@@ -28,7 +28,7 @@ Na prática, se avaliarmos que o paciente provavelmente vai cronificar da FA, po
 
 Um estudo desse ano, 2025, uma coorte retrospectiva[^Bianchini] avaliou o benefício de iniciar anticoagulação na alta hospitalar para pacientes que abriram quadro de FA durante adoecimento crítico. O resultado foi uma redução importante do risco de morte a longo prazo no grupo que recebeu a anticoagulação (HR 0.72, 95% CI 0.58–0.89, P = .003). Ainda assim, a questão aqui já é outra, do benefício de iniciar a anticoagulação na alta hospitalar, permanecendo a impressão de não haver benefício da anticoagulação na fase crítica do adoecimento.
 
-Se o paciente já tinha FA prévia e já anticoagulava, é razoável manter a anticoagulação pesando o risco de sangramento, avaliando a suspensão temporária.
+Se o paciente já tinha FA prévia e já anticoagulava, é razoável manter a anticoagulação pesando o risco de sangramento, ponderando sobre a suspensão temporária.
 
 Esse ano também foi publicada a nova diretriz brasileira da SBC sobre o manejo da FA[^SBC]. Ainda não a li na íntegra mas não encontrei nenhum tópico abordando esse cenário específico da FA nos pacientes críticos.
 

@@ -1,6 +1,6 @@
 ---
 layout: index
-title: "Clínico.blog.br"
+title: "QuadroClinico.com"
 ---
 
 ## Páginas
