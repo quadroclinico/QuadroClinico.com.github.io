@@ -3,12 +3,16 @@ layout: default
 title: "Busca filtrada no PubMed"
 ---
 
+<center>
 <form onsubmit="buscarPubmed(); return false;">
 <input type="text" id="termo" placeholder="Digite o termo (ex: pneumonia)" size="40" required>
 <button type="submit">Buscar</button>
 </form>
 
+<br>
+
 <p>Essa ferramenta busca artigos de revisão nas revistas: NEJM, Lancet, JAMA, BMJ e Annals of Internal Medicine.</p>
+</center>
 
 <script>
 function buscarPubmed() {

@@ -1,7 +1,6 @@
 @charset "UTF-8";
 body {
   color: black;
-  background-color: rgb(214, 255, 241);
   font-family: Arial, Sans;
   max-width: 900px;
   margin: 0 auto;
@@ -14,6 +13,60 @@ body {
   border-radius: 5px;
   padding-right: 1px;
   padding-left: 1px;
+}
+
+ul {
+  list-style: none; /* remove o marcador padrão */
+  padding-left: 1.2em;
+}
+
+ul li::before {
+  content: "•"; /* símbolo do bullet */
+  color: red; /* cor desejada */
+  margin-right: 6px;
+}
+
+/* LISTA DE POSTAGENS!!! */
+.posts {
+  list-style-type: none;
+  padding: 0;
+}
+.posts li {
+  margin-bottom: 10px;
+}
+.posts li::before {
+  content: none !important; /* remove o bullet customizado */
+}
+
+.post-title {
+  font-weight: bold;
+}
+
+.posts-dates {
+  color: rgb(203, 34, 34);
+}
+
+/* Em telas grandes: o break não ocupa espaço => sem quebra */
+.break {
+  display: none;
+}
+
+/* Em telas pequenas: o break vira um bloco => força quebra */
+@media (max-width: 800px) {
+  .break {
+    display: block;
+  }
+  .posts-dates {
+    font-size: small;
+  }
+}
+.novo-badge {
+  background: yellow;
+  color: #2246ca;
+  font-size: 0.75rem;
+  padding: 2px 6px;
+  border-radius: 5px;
+  font-weight: bold;
 }
 
 dt {

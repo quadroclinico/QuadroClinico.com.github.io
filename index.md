@@ -10,11 +10,17 @@ title: "QuadroClinico.com"
 
 ## Últimas postagens
 
-<ul>
+<ul class="posts">
   {% for post in site.posts %}
+      {% assign post_time = post.date | date: '%s' %}
+      {% assign now = 'now' | date: '%s' %}
+      {% assign diff = now | minus: post_time %}
       <li>
-        <span>{{ post.date | date: "%d/%m/%Y" }}</span>
-        <a href="{{ post.url }}">{{ post.title }}</a>
+        <span class="posts-dates">{{ post.date | date: "%d/%m/%Y" }}</span> <span class="break"></span>
+        <a href="{{ post.url }}" class="post-title">{{ post.title }}</a>
+          {% if diff < 2592000 %}
+          <span class="novo-badge"><i>Novo!</i></span>
+          {% endif %}
       </li>
   {% endfor %}
 </ul>

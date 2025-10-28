@@ -10,7 +10,7 @@
   <body>
 <a href="/">
       <center>
-    <img src="/quadroclinico2.png" alt="" style="display: block; width: 100%; max-width: 400px;">
+    <img src="/qc.jpg" alt="" style="display: block; width: 100%; max-width: 400px;">
     </center>
 </a>
 <br>
@@ -31,12 +31,16 @@
     <br>
     <br>
 
-    <form onsubmit="buscarPubmed(); return false;">
+    <center>
+<form onsubmit="buscarPubmed(); return false;">
 <input type="text" id="termo" placeholder="Digite o termo (ex: pneumonia)" size="40" required="" />
 <button type="submit">Buscar</button>
 </form>
 
+<br />
+
 <p>Essa ferramenta busca artigos de revisão nas revistas: NEJM, Lancet, JAMA, BMJ e Annals of Internal Medicine.</p>
+</center>
 
 <script>
 function buscarPubmed() {
