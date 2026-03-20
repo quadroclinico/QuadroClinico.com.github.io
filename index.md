@@ -28,6 +28,6 @@ title: "QuadroClinico.com"
 
 ## Links úteis
 
-- [Curso de digitação](https://www.edclub.com/pt-BR/library/bosque-da-digitacao) -- acredite, ajuda muito a agilizar sua vida nas admissões e altas (e é gratuito).
+- [Curso de digitação](https://www.edclub.com/pt-BR/library/bosque-da-digitacao) -- acredite, agiliza sua vida (e é gratuito).
 - [Criador de acrônimos](https://remember.shinyapps.io/remember_shiny_tool/) -- uso pra criar flashcards.
-- [Zbib](https://zbib.org/) -- site que uso pra formatar referências.
+- [Zbib](https://zbib.org/) -- uso pra formatar referências.
