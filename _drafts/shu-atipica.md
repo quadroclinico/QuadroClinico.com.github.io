@@ -13,7 +13,7 @@ Esse artigo da Blood que citei é muito interessante pois comenta justamente sob
 
 No fim das contas o diagnóstico de SHUa é de exclusão. Não existem nenhum teste diagnóstico que confirme a doença. Fui atrás de alguns artigos e o que mais abordou especificamente o tópico do fluxograma diagnóstico foi um artigo de revisão publicado na *Jornal of Clinical Medicine* em 2025[^JCM]. Ele trás um fluxograma simples conforme o print abaixo:
 
-![[Pasted image 20260318195532.png]]
+![[shua-dx.png]]
 
 Outra armadilha é que a SHUa pode se apresentar com um quadro igual ao de uma nefrosclerose hipertensiva maligna e a própria nefroesclerose hipertensiva maligna pode fazer uma quadro secundário de MAT[^lancet] – o que veio primeiro, o ovo ou a galinha?
 
