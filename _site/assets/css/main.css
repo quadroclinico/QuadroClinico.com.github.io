@@ -16,6 +16,10 @@ body {
   padding-left: 1px;
 }
 
+img {
+  max-width: 100%;
+}
+
 ul {
   list-style: none; /* remove o marcador padrão */
   padding-left: 1.2em;
@@ -75,7 +79,7 @@ dt {
 }
 
 .footnotes {
-  font-size: 85%;
+  font-size: 90%;
 }
 .footnotes p {
   margin: 4px;
