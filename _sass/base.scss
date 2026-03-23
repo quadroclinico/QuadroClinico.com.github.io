@@ -16,6 +16,8 @@ body {
 
 img {
   max-width: 100%;
+  margin: 0 auto;
+  display: block;
 }
 
 
@@ -45,10 +47,11 @@ ul li::before {
 .post-title {
   font-weight: bold;
   text-decoration: none;
-  color: rgb(9, 46, 211);
+  color: blue;
 }
 .post-title:hover {
-  color: rgb(179, 32, 22);
+  color: #097f89;
+  text-decoration: underline;
 }
 .posts-dates {
   color: rgb(171, 9, 47);
@@ -135,4 +138,8 @@ form {
 
 .foot, .post-date {
   text-align: center;
+}
+
+.btn-primary {
+  background-color: #097f89 !important;
 }
