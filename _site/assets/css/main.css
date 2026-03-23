@@ -21,6 +21,10 @@ img {
   display: block;
 }
 
+#logo {
+  margin-top: 10px;
+}
+
 ul {
   list-style: none; /* remove o marcador padrão */
   padding-left: 1.2em;
