@@ -44,10 +44,16 @@ ul li::before {
 
 .post-title {
   font-weight: bold;
+  text-decoration: none;
+  color: rgb(9, 46, 211);
+}
+
+.post-title:hover {
+  color: rgb(179, 32, 22);
 }
 
 .posts-dates {
-  color: rgb(203, 34, 34);
+  color: rgb(171, 9, 47);
 }
 
 /* Em telas grandes: o break não ocupa espaço => sem quebra */
