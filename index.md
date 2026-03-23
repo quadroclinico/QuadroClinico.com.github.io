@@ -1,11 +1,11 @@
 ---
 layout: index
-title: "QuadroClinico.com"
+title: "quadroclinico.com"
 ---
 
 ## Páginas
 
-- Buscador de [revisões no PubMed](busca-pubmed) (eu que fiz!)
+- Buscador de [revisões no PubMed](busca-pubmed)
 - [Por onde estudar?](fontes-estudo)
 
 ## Últimas postagens

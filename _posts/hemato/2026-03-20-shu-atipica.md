@@ -37,12 +37,12 @@ Recomendo a leitura dos artigos abaixo e também do artigo do NEJM que é mais a
 
 ## Referências
 
-[^JCM]: Bogdan R-G, Anderco P, Ichim C, Cimpean A-M, Todor SB, Glaja-Iliescu M, Crainiceanu ZP, Popa ML. Atypical Hemolytic Uremic Syndrome: A Review of Complement Dysregulation, Genetic Susceptibility and Multiorgan Involvement. Journal of Clinical Medicine. 2025; 14(7):2527. https://doi.org/10.3390/jcm14072527
+[^JCM]: Bogdan R-G, Anderco P, Ichim C, Cimpean A-M, Todor SB, Glaja-Iliescu M, Crainiceanu ZP, Popa ML. Atypical Hemolytic Uremic Syndrome: A Review of Complement Dysregulation, Genetic Susceptibility and Multiorgan Involvement. Journal of Clinical Medicine. 2025; 14(7):2527. <https://doi.org/10.3390/jcm14072527>
 
-[^blood]: Fakhouri F, Schwotzer N, Frémeaux-Bacchi V. How I diagnose and treat atypical hemolytic uremic syndrome. _Blood_. 2023;141(9):984-995. https://doi:10.1182/blood.2022017860
+[^blood]: Fakhouri F, Schwotzer N, Frémeaux-Bacchi V. How I diagnose and treat atypical hemolytic uremic syndrome. _Blood_. 2023;141(9):984-995. <https://doi:10.1182/blood.2022017860>
 
-[^lancet]: Michael M, Bagga A, Sartain SE, Smith RJH. Haemolytic uraemic syndrome. _The Lancet_. 2022;400(10364):1722-1740. https://doi:10.1016/S0140-6736(22)01202-8
+[^lancet]: Michael M, Bagga A, Sartain SE, Smith RJH. Haemolytic uraemic syndrome. _The Lancet_. 2022;400(10364):1722-1740. <https://doi:10.1016/S0140-6736(22)01202-8>
 
 [^uptodate]: Chaturvedi S, Cuker A, Tirnauer JS. Diagnostic approach to suspected TTP, HUS, or other thrombotic microangiopathy (TMA). UpToDate Inc. Accessed March 19, 2026. [https://www.uptodate.com/contents/diagnostic-approach-to-suspected-ttp-hus-or-other-thrombotic-microangiopathy-tma](https://www.uptodate.com/contents/diagnostic-approach-to-suspected-ttp-hus-or-other-thrombotic-microangiopathy-tma)
 
-[^nejm]: George JN, Nester CM. Syndromes of thrombotic microangiopathy. N Engl J Med. 2014;371(7):654-666. https://doi:10.1056/NEJMra1312353
+[^nejm]: George JN, Nester CM. Syndromes of thrombotic microangiopathy. N Engl J Med. 2014;371(7):654-666. <https://doi:10.1056/NEJMra1312353>

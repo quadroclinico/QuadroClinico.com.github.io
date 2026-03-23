@@ -1,8 +1,7 @@
 body {
   color: black;
-  font-family: Arial, Sans;
+  font-family: Helvetica, Arial, sans-serif;
   max-width: 700px;
-  line-height: 1.3em;
   margin: 0 auto;
   padding: 10px;
 }
@@ -93,6 +92,7 @@ h1, h2, h3 {
 }
 p {
   margin-top: 0;
+  line-height: 1.4;
 }
 code {
   padding: 1px 5px;
