@@ -11,11 +11,11 @@ O segundo ponto é que a análise também vai depender do tipo de teste usado pa
 
 O terceiro ponto é que os valores podem ser expressos em várias unidades, sem uma padronização entre os laboratórios.
 
-Costumamos calcular a relação aldosterona/renina mas a sua interpretação para chegar ao diagnóstico vai depender dos fatores acima. A diretriz internacional mais recente sobre hiperaldosteronismo primário é a da Endocrine Society, publicada em 2025. Ela traz o fluxograma abaixo com os valores de corte para cada teste e cada unidade de medida.
+Costumamos calcular a relação aldosterona/renina mas a sua interpretação para chegar ao diagnóstico vai depender dos fatores acima. A diretriz internacional mais recente sobre hiperaldosteronismo primário é a da Endocrine Society, publicada em 2025. Ela traz o fluxograma abaixo com os valores de corte para cada teste e cada unidade de medida.[^es]
 
 ![Fluxograma da Diretriz](/img/hiperaldo-es.png)
 
-Mas o UpToDate acaba sendo mais amigável, trazendo a tebela abaixo com ainda mais unidades.
+Mas o UpToDate acaba sendo mais amigável, trazendo a tebela abaixo com ainda mais unidades.[^UTD]
 
 ![Tabela do UpToDate](/img/uptodate-hiperaldo.jpg)
 
