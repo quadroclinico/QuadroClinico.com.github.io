@@ -41,7 +41,7 @@ Destaco o trecho abaixo:
 
 > [...] se a MAT persistir após o tratamento da doença subjacente ou da MAT secundária, deve-se explorar a possibilidade de SHUa ou PTT concomitantes [...]. Embora um estudo envolvendo 110 pacientes com MAT secundária tenha detectado achados genéticos semelhantes aos da população geral de pacientes com MAT, outros estudos demonstraram que muitos dos pacientes com MAT secundária refratária ao tratamento da doença subjacente responderam ao eculizumabe, que foi utilizado apenas temporariamente, sem recidiva da MAT após a suspensão.[^sbn]
 
-Atualizo então a recomendação de leitura com prioridade pelo artigo brasileiro.
+Atualizo então a recomendação de leitura com prioridade pelo artigo brasileiro. Os critérios diagnósticos sugeridos são semelhantes aos já citados acima mas vale a pena conferir a tabela proposta no artigo.
 
 ## Referências
 
