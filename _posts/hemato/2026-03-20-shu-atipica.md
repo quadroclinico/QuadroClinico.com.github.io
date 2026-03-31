@@ -35,6 +35,14 @@ O diagnóstico vai continuar sendo desafiador e a dúvida de iniciar ou não o i
 
 Recomendo a leitura dos artigos abaixo e também do artigo do NEJM que é mais antigo mas fala sobre MAT de forma geral.[^nejm]
 
+_Em tempo (30/03/26):_ depois de publicar esse texto encontrei um artigo da Sociedade Brasileira de Nefrologia (SBN), o primeiro documento de consenso brasileiro para diagnóstico e manejo da SHUa[ˆsbn] (o hábito de só pesquisar em inglês as vezes me faz deixar passar excelentes artigos em português como esse). Bem interessante que ele faz uma abordagem ampla, falando desde o contexto histórico com os inibidores de C5 chegando apenas em 2021 como o primeiro tratamento específico.
+
+Destaco o trecho abaixo:
+
+> [...] se a MAT persistir após o tratamento da doença subjacente ou da MAT secundária, deve-se explorar a possibilidade de SHUa ou PTT concomitantes [...]. Embora um estudo envolvendo 110 pacientes com MAT secundária tenha detectado achados genéticos semelhantes aos da população geral de pacientes com MAT, outros estudos demonstraram que muitos dos pacientes com MAT secundária refratária ao tratamento da doença subjacente responderam ao eculizumabe, que foi utilizado apenas temporariamente, sem recidiva da MAT após a suspensão.[^sbn]
+
+Atualizo então a recomendação de leitura com prioridade pelo artigo brasileiro.
+
 ## Referências
 
 [^JCM]: Bogdan R-G, Anderco P, Ichim C, Cimpean A-M, Todor SB, Glaja-Iliescu M, Crainiceanu ZP, Popa ML. Atypical Hemolytic Uremic Syndrome: A Review of Complement Dysregulation, Genetic Susceptibility and Multiorgan Involvement. Journal of Clinical Medicine. 2025; 14(7):2527. <https://doi.org/10.3390/jcm14072527>
@@ -46,3 +54,5 @@ Recomendo a leitura dos artigos abaixo e também do artigo do NEJM que é mais a
 [^uptodate]: Chaturvedi S, Cuker A, Tirnauer JS. Diagnostic approach to suspected TTP, HUS, or other thrombotic microangiopathy (TMA). UpToDate Inc. Accessed March 19, 2026. [https://www.uptodate.com/contents/diagnostic-approach-to-suspected-ttp-hus-or-other-thrombotic-microangiopathy-tma](https://www.uptodate.com/contents/diagnostic-approach-to-suspected-ttp-hus-or-other-thrombotic-microangiopathy-tma)
 
 [^nejm]: George JN, Nester CM. Syndromes of thrombotic microangiopathy. N Engl J Med. 2014;371(7):654-666. <https://doi:10.1056/NEJMra1312353>
+
+[ˆsbn]: Vaisbich MH, Andrade LGM, Barbosa MINH, Castro MCR, Miranda SMC, Poli-de-Figueiredo CE, Araujo SA, et al. Recommendations for diagnosis and treatment of Atypical Hemolytic Uremic Syndrome (aHUS): an expert consensus statement from the Rare Diseases Committee of the Brazilian Society of Nephrology (COMDORA-SBN). Braz. J. Nephrol. 2025;47(2):e20240087.
